@@ -1,0 +1,12 @@
+espresso : 12
+cappuccino : 25
+latte : 15
+hotchocolate : 30
+smoothie : 35
+milkshake : 40
+orangejuice : 20
+applejuice : 20
+pasta : 60
+pizza : 80
+lazania : 70
+burger : 50

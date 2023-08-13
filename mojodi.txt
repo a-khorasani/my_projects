@@ -1,0 +1,12 @@
+espresso 31
+cappuccino 27
+latte 33
+hotchocolate 24
+smoothie 23
+milkshake 22
+orangejuice 28
+applejuice 29
+pasta 21
+pizza 15
+lazania 21
+burger 9
